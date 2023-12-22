@@ -1,0 +1,7 @@
+these is the first txt
+these is the second txt
+
+
+Data has been written to :these is the first txt,these is the second txt
+
+
